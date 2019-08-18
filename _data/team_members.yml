@@ -1,0 +1,41 @@
+- name: Name Surname
+  photo: rock.jpg
+  info: Position
+  email: email@mfu.ac.th
+  interests: Interests
+  number_educ: 2
+  education1: Education
+  education2: Education
+  link: Link
+
+- name: Name Surname
+  photo: rock.jpg
+  info: Position
+  email: email@mfu.ac.th
+  interests: Interests
+  number_educ: 3
+  education1: Education
+  education2: Education
+  education3: Other
+  link: link
+  
+- name: Name Surname
+  photo: rock.jpg
+  info: Position
+  email: email@mfu.ac.th
+  interests: Interests
+  number_educ: 2
+  education1: Education
+  education2: Education
+  link: Links
+  
+- name: Name Surname
+  photo: rock.jpg
+  info: Position
+  email: email@mfu.ac.th
+  interests: Interests
+  number_educ: 3
+  education1: Education
+  education2: Education
+  education3: Other
+  link: link

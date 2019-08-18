@@ -1,0 +1,50 @@
+- name: Arisara Lekkham
+  photo: [arisara.png]
+  info: Lecturer, School of Law
+  email: arisara.lek@mfu.ac.th
+  interests: Environmental law, Mekong river, Climate change, Business and human rights, Deforestation and reforestation, Transboundary pollution, Sustainable energy
+  number_educ: 2
+  education1: Master in International Law, Chulalongkorn University
+  education2: Bachelor in Law (second class honor), Mae Fah Luang University
+  link: 
+
+- name: Fabio Calzolari
+  photo: fabio.png 
+  info: Lecturer, School of Social Innovation
+  email: fabio.cal@mfu.ac.th
+  interests: Political anthropology, Sociology, International development, Human rights
+  number_educ: 2
+  education1: Master in Cultural Anthropology and Ethnology, Bologna University
+  education2: Bachelor in Cultural Anthropology, Bologna University
+
+- name: Ignasi Ribó
+  photo: ignasi.jpg
+  info: Lecturer, School of Liberal Arts
+  email: ignasi.rib@mfu.ac.th
+  interests: Environmental Humanities, Cultural and Political Ecology, Environmental Philosophy, Sustainability Studies, Human-Animal Studies, Critical Theory, Biosemiotics, Ecocriticism
+  number_educ: 5
+  education1: Doctor of Philosophy, Cultural Studies, University of Sussex
+  education2: Master in Comparative Languages and Cultures, Universitat de Barcelona
+  education3: Master in Political Science, Institut d'Études Politiques de Paris
+  education4: Bachelor in Literary Theory and Comparative Literature, Universitat de Barcelona
+  education5: Bachelor and Master in Business Administration, ESADE, Universitat Ramon Llull
+  link: http://www.ignasiribo.com
+  
+- name: Natdanai Nachan
+  photo: natdanai.png
+  info:  Lecturer, School of Law
+  email: natdanai.nac@mfu.ac.th
+  interests: Constitutional law, Democratization, Political culture
+  number_educ: 2
+  education1: Master in Public Law, Chulalongkorn University
+  education2: Bachelor in Law (first class honor), Prince of Songkhla University
+
+- name: Phetnapat Srivuddhiyaprabha
+  photo: [phetnapat.png]
+  info: Lecturer, School of Law
+  email: phetnapat.sri@mfu.ac.th
+  interests: International law, Human rights, Regional integration, ASEAN
+  number_educ: 3
+  education1: Master in International Law, Thammasat University
+  education2: Bachelor in Law, Mae Fah Luang University
+  education3: Certificate of Legal English Skill for Lawyers, Certificate of Proficiency in English, York St. John University, UK
