@@ -1,8 +1,6 @@
-# HUSUME
-# Human Rights and Sustainability in the Greater Mekong Subregion Research Group
+# CELL
+# Center for Ecology of Language and Literature
 
-MFU Human Rights and Sustainability in the Greater Mekong Subregion Research Group.
-
-This is the website of our academic research group at Mae Fah Luang University.
+This is the website of an academic research group at Mae Fah Luang University. The website is under construction.
 
 
